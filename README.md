@@ -12,7 +12,7 @@
 
 - 🌱 Soy un apasionado a la técnologia, interiorizado en la Programación Web, el Testing y el Desarrollo.
 
-- 👯 Actualmente estoy activamente estudiando en una comunidad hermosa que es soyHenry.com !
+- 👯 Actualmente estoy activamente estudiando en una comunidad hermosa que es soyHenry.com !,  mi perfil aun es Junior en cuanto a la programación Web.
 
 - 🔭 Estoy constantemente aprendiendo y creando mis propios proyectos personales. Actualmente formandome en las últimas tecnologías como Full Stack Developer!.
 
@@ -22,7 +22,7 @@
 
 - 🔭 Actualmente estoy trabajando en una empresa de Telecomunicaciones, buscando empleo activamente para seguir desarrollando mis capacidades en Testing QA Automation, Frontend Developer .   
 
-- 💬 Si eres recruiter o de RRHH y te ha interesado mi perfil o crees que tengo potencial para sumarte a tu empresa, no dudes en ponerte en contacto, te agradeceré por tu tiempo y sin duda te responderé a la mayor brevedad posible.
+- 💬 Si eres recruiter o de RRHH y te ha interesado mi perfil o crees que tengo potencial para sumarme a tu empresa, no dudes en ponerte en contacto, te agradeceré por tu tiempo y sin duda te responderé a la mayor brevedad posible.
 
 - 📫 Cómo comunicarse conmigo: **hbonavota@gmail.com** o use los enlaces.  
 
