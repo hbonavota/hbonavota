@@ -61,6 +61,7 @@
         <a href="https://www.linkedin.com/in/bonavota/" target="_blank"> <img align = "center" src = "https://img.pngio.com/linkedin-logo-png-images-free-download-linkedin-logo-png-612_612.png" alt ="Hbonavota" height ="80" width ="80" /> </a>
     </p>
 <div>
+   <br>
 
 ## Expresiones de Gratitud 🎁
 
