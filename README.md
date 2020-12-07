@@ -16,7 +16,7 @@
 
 - ✨ Soy emprendedor, he desarrollado varios proyectos personales con éxito, sin duda la perseverancia, la disciplina y la automotivación me han acompañado en todos ellos. ✨
 
-- 🔭 Actualmente estoy trabajando en una empresa de Telecomunicaciones, buscando empleo activamente para seguir desarrollando mis capacidades en Testing QA Automation, Frontend Developer . 
+- 🔭 Actualmente estoy trabajando en una empresa de Telecomunicaciones, buscando empleo activamente para seguir desarrollando mis capacidades en Testing QA Automation, Frontend Developer .   
 
 - 💬 Si eres recruiter o de RRHH y te ha interesado mi perfil no dudes en ponerte en contacto, sin duda te responderé a la mayor brevedad posible.
 
@@ -55,3 +55,18 @@
     </a> 
     
 </p>
+</br>
+</br>
+
+## Expresiones de Gratitud 🎁
+
+<p aling ="center">
+- Gracias a todas aquellas personas que con sus consejos y sus tranferencias de conocimiento lograron despertar mi pasión y ayudarme a aprender a codear 😀💪  
+  <br>
+  </br>
+⌨️ con ❤️ por [Hernán Bonavota]
+</br>
+(https://github.com/hbonavota/) 😊
+</p>
+
+
