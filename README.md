@@ -1,6 +1,4 @@
-<p align = "center" >
-  <img src = "https://blog.froont.com/content/images/2014/12/01-Tab_keys-1.gif" width = "800" /> 
-</p>
+<img src = "https://blog.froont.com/content/images/2014/12/01-Tab_keys-1.gif" width = "800" alt ="Hello World" align = "center"/> 
     
 </p>
  <h2 align= "center"> 👋 ¡Hola!, Soy Hernán Bonavota </h2>
@@ -25,7 +23,7 @@
 <h3 align = "center"> Conéctate conmigo: </h3>
 <div align = "center">
     <p align = "center">
-        <a href="https://www.linkedin.com/in/bonavota/" target="_blank"> <img align = "center" src = "https://cdn.icon-icons.com/icons2/285/PNG/256/social_linkedin_box_blue_256_30641.png" alt ="Hbonavota"height =" 30 "width =" 40 "/> </a>
+        <a href="https://www.linkedin.com/in/bonavota/" target="_blank"> <img align = "center" src = "https://cdn.icon-icons.com/icons2/285/PNG/256/social_linkedin_box_blue_256_30641.png" alt ="Hbonavota" height ="30" width =" 40 "/> </a>
     </p>
 <div>
 <br>
