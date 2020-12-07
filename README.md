@@ -29,6 +29,18 @@
 <br>
 <h3 align = "center"> Idiomas y herramientas: </h3>
 </br>
+
+<div> 
+<p align = "center"> 
+    <a href="" target="_blank"> <img src = "https://www.idiomasparaninos.com/images/es/ios-android-app-de-cuero-espanol.png" alt =" bootstrap "width =" 40 "height =" 40 "/> 
+    </a> 
+    <a href ="" target ="_blank "> <img src = "https://mestreacasa.gva.es/c/document_library/get_file?folderId=500022084813&name=DLFE-1860929.jpg" alt ="css3" width =" 40 "height ="40"/> 
+    </a> 
+   <a href ="" target ="_blank "> <img src = "https://images.vexels.com/media/users/3/164331/isolated/preview/aad83398a42c589aa011f1d9a3e8a1dc-italia-bandera-idioma-icono-c--rculo-by-vexels.png" alt ="css3" width ="40" height ="40"/> 
+    </a> 
+</div>
+
+
 <p align = "center"> 
     <a href="https://getbootstrap.com" target="_blank"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt =" bootstrap "width =" 40 "height =" 40 "/> 
     </a> 
