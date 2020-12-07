@@ -22,7 +22,7 @@
 
 - 🔭 Actualmente estoy trabajando en una empresa de Telecomunicaciones, buscando empleo activamente para seguir desarrollando mis capacidades en Testing QA Automation, Frontend Developer .   
 
-- 💬 Si eres recruiter o de RRHH y te ha interesado mi perfil no dudes en ponerte en contacto, sin duda te responderé a la mayor brevedad posible.
+- 💬 Si eres recruiter o de RRHH y te ha interesado mi perfil o crees que tengo potencial para sumarte a tu empresa, no dudes en ponerte en contacto, te agradeceré por tu tiempo y sin duda te responderé a la mayor brevedad posible.
 
 - 📫 Cómo comunicarse conmigo: **hbonavota@gmail.com** o use los enlaces.  
 
