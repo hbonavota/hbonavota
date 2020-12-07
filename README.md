@@ -1,5 +1,7 @@
-<img src = "https://blog.froont.com/content/images/2014/12/01-Tab_keys-1.gif" width = "800" alt ="Hello World" align = "center"/> 
-    
+<div align="center">
+<img src = "https://i1.wp.com/blog.adolfogarcia.com.es/wp-content/uploads/2017/08/Evolucion-Desarrollo-Web-01.gif?resize=800%2C400" width = "800" alt="Hello World" align= "center"/> 
+</div>
+   
 </p>
  <h2 align= "center"> 👋 ¡Hola!, Soy Hernán Bonavota </h2>
 </br>
