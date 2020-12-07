@@ -1,9 +1,15 @@
 <div align="center">
 <img src = "https://i1.wp.com/blog.adolfogarcia.com.es/wp-content/uploads/2017/08/Evolucion-Desarrollo-Web-01.gif?resize=800%2C400" width = "800" alt="Hello World" align= "center"/> 
+   <h2 align= "center"> 👋 ¡Hola!, Soy Hernán Bonavota </h2>
 </div>
+
+ <p align="center" height="40 width="40">
+👇
+</p>
    
 </p>
- <h2 align= "center"> 👋 ¡Hola!, Soy Hernán Bonavota </h2>
+ 
+   
 </br>
 
 - 🌱 Soy un apasionado a la técnologia, interiorizado en la Programación Web, el Testing y el Desarrollo.
