@@ -58,7 +58,7 @@
 <h3 align = "center"> Conéctate conmigo: </h3>
 <div align = "center">
     <p align = "center">
-        <a href="https://www.linkedin.com/in/bonavota/" target="_blank"> <img align = "center" src = "https://cdn.icon-icons.com/icons2/285/PNG/256/social_linkedin_box_blue_256_30641.png" alt ="Hbonavota" height ="30" width =" 40 "/> </a>
+        <a href="https://www.linkedin.com/in/bonavota/" target="_blank"> <img align = "center" src = "https://img.pngio.com/linkedin-logo-png-images-free-download-linkedin-logo-png-612_612.png" alt ="Hbonavota" height ="80" width ="80" /> </a>
     </p>
 <div>
 
