@@ -8,8 +8,6 @@
 </p>
    
 </p>
- 
-   
 </br>
 
 - 🌱 Soy un apasionado a la técnologia, interiorizado en la Programación Web, el Testing y el Desarrollo.
@@ -18,7 +16,7 @@
 
 - 🔭 Estoy constantemente aprendiendo y creando mis propios proyectos personales. Actualmente formandome en las últimas tecnologías como Full Stack Developer!.
 
-- ⚡ Me encanta la Astronomía, las ciencias .·., soy vegetariano hace mas de 10 años y poseo una grandes habilidades como soft skills dadas mis formaciones anteriores.
+- ⚡ Me encanta la Astronomía, las ciencias, soy vegetariano hace mas de 10 años y poseo sólidas herramientas soft skills dadas mis formaciones anteriores.
 
 - ✨ Soy emprendedor, he desarrollado varios proyectos personales con éxito, sin duda la perseverancia, la disciplina y la automotivación me han acompañado en todos ellos. ✨
 
@@ -67,12 +65,14 @@
 ## Expresiones de Gratitud 🎁
 
 <p aling ="center">
-- Gracias a todas aquellas personas que con sus consejos y sus tranferencias de conocimiento lograron despertar mi pasión y ayudarme a aprender a codear 😀💪  
-  <br>
+Gracias a todas aquellas personas que con sus consejos y sus tranferencias de conocimiento lograron despertar mi pasión y ayudarme a aprender a codear 😀💪  
   </br>
-⌨️ con ❤️ por [Hernán Bonavota]
+</p>
+<p aling="center" >
+⌨️ con ❤️ por [Hernán Bonavota.·.]
 </br>
 (https://github.com/hbonavota/) 😊
 </p>
+
 
 
