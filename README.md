@@ -25,13 +25,7 @@
 - 💬 Si eres recruiter o de RRHH y te ha interesado mi perfil no dudes en ponerte en contacto, sin duda te responderé a la mayor brevedad posible.
 
 - 📫 Cómo comunicarse conmigo: **hbonavota@gmail.com** o use los enlaces.  
-<br>
-<h3 align = "center"> Conéctate conmigo: </h3>
-<div align = "center">
-    <p align = "center">
-        <a href="https://www.linkedin.com/in/bonavota/" target="_blank"> <img align = "center" src = "https://cdn.icon-icons.com/icons2/285/PNG/256/social_linkedin_box_blue_256_30641.png" alt ="Hbonavota" height ="30" width =" 40 "/> </a>
-    </p>
-<div>
+
 <br>
 <h3 align = "center"> Idiomas y herramientas: </h3>
 </br>
@@ -61,6 +55,12 @@
 </p>
 </br>
 </br>
+<h3 align = "center"> Conéctate conmigo: </h3>
+<div align = "center">
+    <p align = "center">
+        <a href="https://www.linkedin.com/in/bonavota/" target="_blank"> <img align = "center" src = "https://cdn.icon-icons.com/icons2/285/PNG/256/social_linkedin_box_blue_256_30641.png" alt ="Hbonavota" height ="30" width =" 40 "/> </a>
+    </p>
+<div>
 
 ## Expresiones de Gratitud 🎁
 
