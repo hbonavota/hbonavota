@@ -44,7 +44,7 @@
 <p align = "center"> 
     <a href="https://getbootstrap.com" target="_blank"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt =" bootstrap "width =" 40 "height =" 40 "/> 
     </a> 
-    <a href =" https://www.w3schools.com/css/ "target ="_blank "> <img src = "https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt ="css3" width =" 40 "height =" 40 "/> 
+    <a href =" https://www.w3schools.com/css/ "target ="_blank "> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt ="css3" width =" 40 "height =" 40 "/> 
     </a> 
     <a href="https://expressjs.com" target="_blank"> <img src ="https://miro.medium.com/max/456/1*Jr3NFSKTfQWRUyjblBSKeg.png" alt="express "width =" 40 "height =" 40 "/> 
     </a> 
@@ -56,7 +56,7 @@
     </a> 
     <a href="https://nodejs.org" target="_blank"> <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt =" nodejs "width =" 40 "height =" 40 "/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src = "https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt = "postgresql" width = "40" height = "40" /> 
     </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src = "https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt =" reaccionar "width =" 40 "height =" 40 "/> 
+    <a href="https://reactjs.org/" target="_blank"> <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI01eJWuiEoY7XWmq5MvADxR9iXDuSItTfFA&usqp=CAU" alt ="react" width =" 40 "height =" 40 "/> 
     </a> 
     <a href = "https://redux.js.org" target = "_ blank"> <img src = "https://img.stackshare.io/service/7374/react-redux.png" alt = "redux" width = "40" height = "40" /> </a> 
     <a href = "https://www.cypress.io/" target = "_ blank"> <img src = "https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/q1cwqhahz7jbtfzalznd" alt = "cypress.io" width = "40" height = "40" /> 
