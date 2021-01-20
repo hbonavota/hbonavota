@@ -50,7 +50,7 @@
     </a> 
     <a href = "https://firebase.google.com/" target ="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt = "firebase "width =" 40 "height =" 40 "/> 
     </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src ="https://git-scm.com/images/logos/logomark-orange@2x.png"alt =" git "width =" 40 "height =" 40 "/> </a> <a href =" https: // www.w3.org/html/ "target ="_blank "> <img src ="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt =" html5 "width =" 40 "height =" 40 "/> 
+    <a href="https://git-scm.com/" target="_blank"> <img src ="https://git-scm.com/images/logos/logomark-orange@2x.png"alt =" git "width =" 40 "height =" 40 "/> </a> <a href =" https: // www.w3.org/html/ "target ="_blank "> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt =" html5 "width =" 40 "height =" 40 "/> 
     </a> 
     <a href =" https://developer.mozilla.org/en-US/docs/Web/JavaScript "target="_ blank"> <img src ="https://i0.wp.com/www.majalasna.org/wp-content/uploads/2016/03/js-logo.png?w=500&ssl=1" alt = "javascript" width = "40" height = "40" /> 
     </a> 
