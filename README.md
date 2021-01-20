@@ -54,7 +54,7 @@
     </a> 
     <a href =" https://developer.mozilla.org/en-US/docs/Web/JavaScript "target="_ blank"> <img src ="https://i0.wp.com/www.majalasna.org/wp-content/uploads/2016/03/js-logo.png?w=500&ssl=1" alt = "javascript" width = "40" height = "40" /> 
     </a> 
-    <a href="https://nodejs.org" target="_blank"> <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt =" nodejs "width =" 40 "height =" 40 "/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src = "https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt = "postgresql" width = "40" height = "40" /> 
+    <a href="https://nodejs.org" target="_blank"> <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt =" nodejs "width =" 40 "height =" 40 "/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src = "https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width= "40" height="40" /> 
     </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI01eJWuiEoY7XWmq5MvADxR9iXDuSItTfFA&usqp=CAU" alt ="react" width =" 40 "height =" 40 "/> 
     </a> 
