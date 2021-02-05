@@ -12,11 +12,12 @@
 
 - 🌱 Soy un apasionado a la técnologia, interiorizado en la Programación Web, el Testing y el Desarrollo.
 
-- 👯 Actualmente estoy activamente estudiando en una comunidad hermosa que es soyHenry.com !,  mi perfil aun es Junior en cuanto a la programación Web.
+- 👯 Actualmente estoy activamente estudiando en una comunidad hermosa que es soyHenry.com !,  Estoy actualizandome con las nuevas técnologias, principalmente las que describo más abajo en la cual se pueden ver mis skills además de los repo que subo en los tiempos libres.
 
-- 🔭 Estoy constantemente aprendiendo y creando mis propios proyectos personales. Actualmente formandome en las últimas tecnologías como Full Stack Developer!.
+- 🔭 Estoy constantemente aprendiendo y creando mis propios proyectos personales en donde practico y mejoro mis habilidades. Actualmente formandome en las últimas tecnologías como Full Stack Developer!.
 
-- ⚡ Me encanta la Astronomía, las ciencias, soy vegetariano hace mas de 10 años y poseo sólidas herramientas soft skills dadas mis formaciones anteriores.
+- ⚡ Me encanta la Astronomía, las ciencias, soy curioso, eso me ha dado un gran dinamismo en todas las habilidades que he ido aprendiendo con los años.
+     Soy vegetariano hace mas de 10 años, me encanta trabajar en equipo, siempre entendi que uno pude llegar más rápido si va solo, pero si quiere llegar lejos necesariamente se hace en equipo 💪. Poseo sólidas herramientas soft skills dadas mis formaciones anteriores, liderando equipos y también aprendiendo de compañeros, ser positivo es realmente una virtud que aprecio.
 
 - ✨ Soy emprendedor, he desarrollado varios proyectos personales con éxito, sin duda la perseverancia, la disciplina y la automotivación me han acompañado en todos ellos. ✨
 
