@@ -12,16 +12,16 @@
 
 - 🌱 Soy un apasionado a la técnologia, interiorizado en la Programación Web, el Testing y el Desarrollo.
 
-- 👯 Actualmente estoy activamente estudiando en una comunidad hermosa que es soyHenry.com !,  Estoy actualizandome con las nuevas técnologias, principalmente las que describo más abajo en la cual se pueden ver mis skills además de los repo que subo en los tiempos libres.
+- 👯 He finalizado recientemente el bootcamp en desarrollo de software en la comunidad hermosa que es soyHenry.com !,  Estoy actualizandome con las nuevas técnologias, principalmente las que describo más abajo en la cual se pueden ver mis skills además de los repositorios que subo o mejoro en los tiempos libres.
 
-- 🔭 Estoy constantemente aprendiendo y creando mis propios proyectos personales en donde practico y mejoro mis habilidades. Actualmente formandome en las últimas tecnologías como Full Stack Developer!.
+- 🔭 Estoy constantemente aprendiendo y creando mis propios proyectos personales en donde practico y mejoro mis habilidades, formandome en las últimas tecnologías como Full Stack Developer!.
 
 - ⚡ Me encanta la Astronomía, las ciencias, soy curioso, eso me ha dado un gran dinamismo en todas las habilidades que he ido aprendiendo con los años.
      Soy vegetariano hace mas de 10 años, me encanta trabajar en equipo, siempre entendi que uno pude llegar más rápido si va solo, pero si quiere llegar lejos necesariamente se hace en equipo 💪. Poseo sólidas herramientas soft skills dadas mis formaciones anteriores, liderando equipos y también aprendiendo de compañeros, ser positivo es realmente una virtud que aprecio.
 
 - ✨ Soy emprendedor, he desarrollado varios proyectos personales con éxito, sin duda la perseverancia, la disciplina y la automotivación me han acompañado en todos ellos. ✨
 
-- 🔭 Actualmente estoy trabajando en una empresa de Telecomunicaciones, buscando empleo activamente para seguir desarrollando mis capacidades en Testing QA Automation, Frontend Developer .   
+- 🔭 Actualmente estoy trabajando en una empresa de Telecomunicaciones, buscando empleo activamente para seguir desarrollando mis capacidades en desarrollo web, Testing QA Automation, Frontend Developer, Backend Developer.   
 
 - 💬 Si eres recruiter o de RRHH y te ha interesado mi perfil o crees que tengo potencial para sumarme a tu empresa, no dudes en ponerte en contacto, te agradeceré por tu tiempo y sin duda te responderé a la mayor brevedad posible.
 
