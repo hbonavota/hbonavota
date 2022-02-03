@@ -8,9 +8,18 @@
 
 - ‍💻 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 || 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭 </br>
    ![object](https://img.shields.io/badge/%7B-%20-brightgreen) </br>
-   ![JavaScript](https://img.shields.io/badge/Frontend%20%3A-%5B%20Javascript%2C%20React.js%2C%20Redux%20%5D%2C-brightgreen?logo=react) </br>
-   ![Backend](https://img.shields.io/badge/Backend%20%3A-%5BNode.js%2C%20Express.js%2C%20MongoDB%2C%20SQL%2C%20Postgresql%20%5D%2C-brightgreen?logo=nodedotjs) </br>
-   ![Testing](https://img.shields.io/badge/Testing%20%3A-%5B%20Cypress.io%2C%20jest%20%5D%2C-brightgreen?logo=cypress)</br>
+   ![Frontend](https://img.shields.io/badge/%20Frontend%20%3A-%5B%20-brightgreen)
+   ![javascript](https://img.shields.io/badge/-%20Javascript-brightgreen?logo=javascript),
+   ![react](https://img.shields.io/badge/%20-react.js-brightgreen?logo=react),
+   ![redux](https://img.shields.io/badge/-redux%20%5D%2C%20-brightgreen?logo=redux)</br>
+   ![Backend](https://img.shields.io/badge/Backend%20%3A-%5B-brightgreen) 
+   ![Node](https://img.shields.io/badge/-Node.js-brightgreen?logo=nodedotjs),
+   ![Express](https://img.shields.io/badge/-Express.js-brightgreen?logo=express),
+   ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb),
+   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20%5D-brightgreen?logo=postgresql),</br>
+   ![Testing](https://img.shields.io/badge/Testing%20%3A-%5B-brightgreen)
+   ![cypress](https://img.shields.io/badge/-Cypress-brightgreen?logo=cypress),
+   ![Jest](https://img.shields.io/badge/-Jest.js%20%5D-brightgreen?logo=jest) </br>
    ![object](https://img.shields.io/badge/%20%20%20%7D-%20-brightgreen) </br>
    
 <div align="center">
