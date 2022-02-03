@@ -6,14 +6,14 @@
    <h2 align= "center"> 👋 ¡Hola!, Soy Hernán Bonavota </h2>
 </br>
 
-- ‍💻 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 || 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭 = </br>
-  {
-____   𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 : [ React, Redux ], </br>
-____   𝗕𝗮𝗰𝗸𝗲𝗻𝗱: [Node.js, Express.js, MongoDB, SQL, Postgresql ], </br>
-____   𝗧𝗲𝘀𝘁𝗶𝗻𝗴: [ Cypress.io, jest ]</br>
-   }
-   </br>
- ⚡ Formándome ultimamente en TypeScript y GraphQL ⚡
+- ‍💻 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 || 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭 </br>
+ 
+   ![JavaScript](https://img.shields.io/badge/Frontend%20%3A-%5B%20Javascript%2C%20React.js%2C%20Redux%20%5D%2C-brightgreen) </br>
+   ![Backend](https://img.shields.io/badge/Backend%20%3A-%5BNode.js%2C%20Express.js%2C%20MongoDB%2C%20SQL%2C%20Postgresql%20%5D%2C-brightgreen) </br>
+   ![Testing](https://img.shields.io/badge/Testing%20%3A-%5B%20Cypress.io%2C%20jest%20%5D%2C-brightgreen)</br>
+<div align="center">
+ ⚡ Formándome actualmente en  <img src ="https://img.shields.io/badge/-TypeScript-brightgreen"> y  <img src ="https://img.shields.io/badge/-GraphQL-brightgreen"> ⚡
+</div>
 
 - 👨‍💻 Apasionado por las técnologias, interiorizado en la Programación Web, el Testing y el Desarrollo. Actualmente estoy trabajando en una empresa de Telecomunicaciones, buscando empleo activamente para seguir desarrollando mis skills en desarrollo web, Testing QA Automation, Frontend Developer, Backend Developer.
 
