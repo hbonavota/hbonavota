@@ -1,33 +1,45 @@
 <div align="center">
-<img src = "https://yihe.co/wp-content/uploads/2018/03/1_jB76MLZjiNhGSQQvxm7LSQ.gif" width = "800" alt="Hello World" align= "center"/> 
-   <h2 align= "center"> 👋 ¡Hola!, Soy Hernán Bonavota </h2>
+   <a href="https://github.com/hbonavota" align = "center">
+   <img src = "https://yihe.co/wp-content/uploads/2018/03/1_jB76MLZjiNhGSQQvxm7LSQ.gif" width = "800" alt="Hello World" align= "center"/> 
+   </a>
 </div>
+   <h2 align= "center"> 👋 ¡Hola!, Soy Hernán Bonavota </h2>
+</br>
+
+- ‍💻 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 || 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭 = </br>
+  {
+____   𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 : [ React, Redux ], </br>
+____   𝗕𝗮𝗰𝗸𝗲𝗻𝗱: [Node.js, Express.js, MongoDB, SQL, Postgresql ], </br>
+____   𝗧𝗲𝘀𝘁𝗶𝗻𝗴: [ Cypress.io, jest ]</br>
+   }
+   </br>
+ ⚡ Formándome ultimamente en TypeScript y GraphQL ⚡
+
+- 👨‍💻 Apasionado por las técnologias, interiorizado en la Programación Web, el Testing y el Desarrollo. Actualmente estoy trabajando en una empresa de Telecomunicaciones, buscando empleo activamente para seguir desarrollando mis skills en desarrollo web, Testing QA Automation, Frontend Developer, Backend Developer.
+
+- ⛳ Me encanta la Astronomía, las ciencias, el Ajedrez, soy curioso, eso me ha dado un gran dinamismo en todas las habilidades que he ido aprendiendo con los años.
+
+- 🌱 Soy vegetariano hace mas de 10 años, me encanta trabajar en equipo, siempre entendi que uno pude llegar más rápido si va solo, pero si quiere llegar lejos necesariamente se hace en equipo 💪. Poseo sólidas herramientas soft skills dadas mis formaciones anteriores, liderando equipos y también aprendiendo de compañeros, ser positivo es realmente una virtud que aprecio. 
+
+- 💬 Si eres recruiter o de RRHH y te ha interesado mi perfil o crees que tengo potencial para sumarme a tu empresa, no dudes en ponerte en contacto, te agradeceré por tu tiempo y sin duda te responderé a la mayor brevedad posible.
+
+- 📫 Comunícate conmigo: **hbonavota@gmail.com** o usa los enlaces.
 
  <p align="center" height="40 width="40">
 👇
 </p>
    
-</p>
-</br>
-
-- 🌱 Soy un apasionado a la técnologia, interiorizado en la Programación Web, el Testing y el Desarrollo.
-
-- 👯 He finalizado recientemente el bootcamp en desarrollo de software en la comunidad hermosa que es soyHenry.com !,  Estoy actualizandome con las nuevas técnologias, principalmente las que describo más abajo en la cual se pueden ver mis skills además de los repositorios que subo o mejoro en los tiempos libres.
-
-- 🔭 Estoy constantemente aprendiendo y creando mis propios proyectos personales en donde practico y mejoro mis habilidades, formandome en las últimas tecnologías como Full Stack Developer!.
-
-- ⚡ Me encanta la Astronomía, las ciencias, soy curioso, eso me ha dado un gran dinamismo en todas las habilidades que he ido aprendiendo con los años.
-     Soy vegetariano hace mas de 10 años, me encanta trabajar en equipo, siempre entendi que uno pude llegar más rápido si va solo, pero si quiere llegar lejos necesariamente se hace en equipo 💪. Poseo sólidas herramientas soft skills dadas mis formaciones anteriores, liderando equipos y también aprendiendo de compañeros, ser positivo es realmente una virtud que aprecio.
-
-- ✨ Soy emprendedor, he desarrollado varios proyectos personales con éxito, sin duda la perseverancia, la disciplina y la automotivación me han acompañado en todos ellos. ✨
-
-- 🔭 Actualmente estoy trabajando en una empresa de Telecomunicaciones, buscando empleo activamente para seguir desarrollando mis capacidades en desarrollo web, Testing QA Automation, Frontend Developer, Backend Developer.   
-
-- 💬 Si eres recruiter o de RRHH y te ha interesado mi perfil o crees que tengo potencial para sumarme a tu empresa, no dudes en ponerte en contacto, te agradeceré por tu tiempo y sin duda te responderé a la mayor brevedad posible.
-
-- 📫 Cómo comunicarse conmigo: **hbonavota@gmail.com** o use los enlaces.  
-
-<br>
+   <div align = "center">
+   <a href="https://github.com/hbonavota">
+      <img src="https://github-readme-stats.vercel.app/api?username=hbonavota&show_icons=true&theme=blue-green" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbonavota&theme=blue-green" />
+   </a>
+   </div>
+   
+   ____
+   
+  
+   <br>
 <h3 align = "center"> Idiomas y herramientas: </h3>
 </br>
 
@@ -40,7 +52,6 @@
    <a href ="" target ="_blank "> <img src = "https://images.vexels.com/media/users/3/164331/isolated/preview/aad83398a42c589aa011f1d9a3e8a1dc-italia-bandera-idioma-icono-c--rculo-by-vexels.png" alt ="css3" width ="40" height ="40"/> 
     </a> 
 </div>
-
 
 <p align = "center"> 
     <a href="https://getbootstrap.com" target="_blank"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt =" bootstrap "width =" 40 "height =" 40 "/> 
@@ -87,6 +98,3 @@ Gracias a todas aquellas personas que con sus consejos y sus tranferencias de co
 </br>
 (https://github.com/hbonavota/) 😊
 </p>
-
-
-
