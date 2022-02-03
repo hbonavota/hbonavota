@@ -11,7 +11,7 @@
    ![Frontend](https://img.shields.io/badge/%20Frontend%20%3A-%5B%20-brightgreen)
    ![javascript](https://img.shields.io/badge/-%20Javascript-brightgreen?logo=javascript),
    ![react](https://img.shields.io/badge/%20-react.js-brightgreen?logo=react),
-   ![redux](https://img.shields.io/badge/-redux%20%5D%2C%20-brightgreen?logo=redux)</br>
+   ![redux](https://img.shields.io/badge/-redux%20%5D-brightgreen?logo=redux),</br>
    ![Backend](https://img.shields.io/badge/Backend%20%3A-%5B-brightgreen) 
    ![Node](https://img.shields.io/badge/-Node.js-brightgreen?logo=nodedotjs),
    ![Express](https://img.shields.io/badge/-Express.js-brightgreen?logo=express),
