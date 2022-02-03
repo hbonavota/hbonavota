@@ -23,7 +23,7 @@
    ![object](https://img.shields.io/badge/%20%20%20%7D-%20-brightgreen) </br>
    
 <div align="center">
- ⚡ Interiorizandome actualmente en <img src ="https://img.shields.io/badge/TypeScript%20%20-%20-brightgreen?logo=typescript"> y  <img src ="https://img.shields.io/badge/Graphql%20%20-%20-brightgreen?logo=graphql"> ⚡
+ ⚡ Interiorizandome actualmente en <img src ="https://img.shields.io/badge/TypeScript%20%20-%20-brightgreen?logo=typescript"> y  <img src ="https://img.shields.io/badge/GraphQL%20%20-%20-brightgreen?logo=graphql"> ⚡
 </div>
 
 - 👨‍💻 Apasionado por las técnologias, interiorizado en la Programación Web, el Testing y el Desarrollo. Actualmente estoy trabajando en una empresa de Telecomunicaciones, buscando empleo activamente para seguir desarrollando mis skills en desarrollo web, Testing QA Automation, Frontend Developer, Backend Developer.
