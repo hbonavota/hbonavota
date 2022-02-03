@@ -7,10 +7,12 @@
 </br>
 
 - ‍💻 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 || 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭 </br>
- 
+   ![object](https://img.shields.io/badge/%7B-%20-brightgreen) </br>
    ![JavaScript](https://img.shields.io/badge/Frontend%20%3A-%5B%20Javascript%2C%20React.js%2C%20Redux%20%5D%2C-brightgreen) </br>
    ![Backend](https://img.shields.io/badge/Backend%20%3A-%5BNode.js%2C%20Express.js%2C%20MongoDB%2C%20SQL%2C%20Postgresql%20%5D%2C-brightgreen) </br>
    ![Testing](https://img.shields.io/badge/Testing%20%3A-%5B%20Cypress.io%2C%20jest%20%5D%2C-brightgreen)</br>
+   ![object](https://img.shields.io/badge/%20%20%20%7D-%20-brightgreen) </br>
+   
 <div align="center">
  ⚡ Formándome actualmente en  <img src ="https://img.shields.io/badge/-TypeScript-brightgreen"> y  <img src ="https://img.shields.io/badge/-GraphQL-brightgreen"> ⚡
 </div>
