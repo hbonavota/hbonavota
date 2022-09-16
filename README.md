@@ -34,7 +34,6 @@
 
 - 💬 Si eres recruiter o de RRHH y te ha interesado mi perfil o crees que tengo potencial para sumarme a tu empresa, no dudes en ponerte en contacto, te agradeceré por tu tiempo y sin duda te responderé a la mayor brevedad posible.
 
-- 📫 Comunícate conmigo: **hbonavota@gmail.com** o usa los enlaces.
 
  <p align="center" height="40 width="40">
 👇
