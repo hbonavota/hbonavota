@@ -26,7 +26,7 @@
  ⚡ Practicando actualmente <img src ="https://img.shields.io/badge/TypeScript%20%20-%20-brightgreen?logo=typescript"> y  <img src ="https://img.shields.io/badge/GraphQL%20%20-%20-brightgreen?logo=graphql"> ⚡
 </div>
 
-- 👨‍💻 Apasionado por la técnologia, interiorizado en la Programación Web, el Testing y el Desarrollo.Buscando empleo activamente para seguir desarrollando mis skills en desarrollo web, Testing QA Automation, Frontend Developer, Backend Developer.
+- 👨‍💻 Soy un programador ágil, con iniciativa, positivo. Acostumbrado a trabajar en ambientes desafiantes. Tengo fuertes habilidades blandas dadas las experiencias que he ido aprendiendo en mi trayectoria profesional.
 
 - ⛳ Me encanta la Astronomía, las ciencias, el Ajedrez, soy curioso, eso me ha dado un gran dinamismo en todas las habilidades que he ido aprendiendo con los años.
 
