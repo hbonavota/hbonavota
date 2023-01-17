@@ -74,7 +74,7 @@
     </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src ="https://git-scm.com/images/logos/logomark-orange@2x.png"alt =" git "width =" 40 "height =" 40 "/> </a> <a href =" https: // www.w3.org/html/ "target ="_blank "> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt =" html5 "width =" 40 "height =" 40 "/> 
     </a> 
-    <a href =" https://developer.mozilla.org/en-US/docs/Web/JavaScript "target="_ blank"> <img src ="https://i0.wp.com/www.majalasna.org/wp-content/uploads/2016/03/js-logo.png?w=500&ssl=1" alt = "javascript" width = "40" height = "40" /> 
+    <a href =" https://developer.mozilla.org/en-US/docs/Web/JavaScript "target="_ blank"> <img src ="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt = "javascript" width = "40" height = "40" /> 
     </a> 
     <a href="https://nodejs.org" target="_blank"> <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt =" nodejs "width =" 40 "height =" 40 "/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src = "https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width= "40" height="40" /> 
     </a> 
@@ -92,7 +92,7 @@
 <h3 align = "center"> Conéctate conmigo: </h3>
 <div align = "center">
     <p align = "center">
-        <a href="https://www.linkedin.com/in/bonavota/" target="_blank"> <img align = "center" src = "https://img.pngio.com/linkedin-logo-png-images-free-download-linkedin-logo-png-612_612.png" alt ="Hbonavota" height ="80" width ="80" /> </a>
+        <a href="https://www.linkedin.com/in/bonavota/" target="_blank"> <img align = "center" src ="https://es.m.wikipedia.org/wiki/Archivo:LinkedIn_logo_initials.png" alt ="Hbonavota" height ="80" width ="80" /> </a>
     </p>
 <div>
    <br>
