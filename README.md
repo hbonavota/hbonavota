@@ -92,7 +92,7 @@
 <h3 align = "center"> Conéctate conmigo: </h3>
 <div align = "center">
     <p align = "center">
-        <a href="https://www.linkedin.com/in/bonavota/" target="_blank"> <img align = "center" src ="https://es.m.wikipedia.org/wiki/Archivo:LinkedIn_logo_initials.png" alt ="Hbonavota" height ="80" width ="80" /> </a>
+        <a href="https://www.linkedin.com/in/bonavota/" target="_blank"> <img align = "center" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt ="Hbonavota" height ="80" width ="80" /> </a>
     </p>
 <div>
    <br>
