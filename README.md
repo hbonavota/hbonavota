@@ -55,9 +55,9 @@
 
 <div> 
 <p align = "center"> 
-    <a href="" target="_blank"> <img src = "https://www.idiomasparaninos.com/images/es/ios-android-app-de-cuero-espanol.png" alt =" bootstrap "width =" 40 "height =" 40 "/> 
+    <a href="" target="_blank"> <img src = "https://www.idiomasparaninos.com/images/es/ios-android-app-de-cuero-espanol.png" alt ="ES" "width =" 40 "height =" 40 "/> 
     </a> 
-    <a href ="" target ="_blank "> <img src = "https://e7.pngegg.com/pngimages/449/1020/png-clipart-english-computer-icons-les-rives-de-cannes-mossi-britain-flag-english.png" alt ="css3" width =" 40 "height ="40"/> 
+    <a href ="" target ="_blank "> <img src = "https://images.vexels.com/media/users/3/163966/isolated/preview/6ecbb5ec8c121c0699c9b9179d6b24aa-circulo-de-icono-de-idioma-de-bandera-de-inglaterra.png" alt ="english" width =" 40 "height ="40"/> 
     </a> 
    <a href ="" target ="_blank "> <img src ="https://images.vexels.com/media/users/3/164331/isolated/preview/aad83398a42c589aa011f1d9a3e8a1dc-italia-bandera-idioma-icono-c--rculo-by-vexels.png" alt ="italian" width ="40" height ="40"/> 
     </a> 
