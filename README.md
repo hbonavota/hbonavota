@@ -57,9 +57,9 @@
 <p align = "center"> 
     <a href="" target="_blank"> <img src = "https://www.idiomasparaninos.com/images/es/ios-android-app-de-cuero-espanol.png" alt =" bootstrap "width =" 40 "height =" 40 "/> 
     </a> 
-    <a href ="" target ="_blank "> <img src = "https://mestreacasa.gva.es/c/document_library/get_file?folderId=500022084813&name=DLFE-1860929.jpg" alt ="css3" width =" 40 "height ="40"/> 
+    <a href ="" target ="_blank "> <img src = "https://mestreacasa.gva.es/c/document_library/get_file?folderId=500022084813&name=DLFE-1860929.jpg](https://cdn-icons-png.flaticon.com/512/919/919826.png" alt ="css3" width =" 40 "height ="40"/> 
     </a> 
-   <a href ="" target ="_blank "> <img src = "https://images.vexels.com/media/users/3/164331/isolated/preview/aad83398a42c589aa011f1d9a3e8a1dc-italia-bandera-idioma-icono-c--rculo-by-vexels.png" alt ="css3" width ="40" height ="40"/> 
+   <a href ="" target ="_blank "> <img src ="https://images.vexels.com/media/users/3/164331/isolated/preview/aad83398a42c589aa011f1d9a3e8a1dc-italia-bandera-idioma-icono-c--rculo-by-vexels.png" alt ="italian" width ="40" height ="40"/> 
     </a> 
 </div>
 
