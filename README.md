@@ -30,7 +30,7 @@
 
 - ⛳ Me encanta la Astronomía, las ciencias, el Ajedrez, soy curioso, eso me ha dado un gran dinamismo en todas las habilidades que he ido aprendiendo con los años.
 
-- 🌱 Soy vegetariano hace mas de 10 años, me encanta trabajar en equipo, siempre entendi que uno pude llegar más rápido si va solo, pero si quiere llegar lejos necesariamente se hace en equipo 💪. Poseo sólidas herramientas soft skills dadas mis formaciones anteriores, liderando equipos y también aprendiendo de compañeros, ser positivo es realmente una virtud que aprecio. 
+- 🌱 Soy vegetariano hace mas de 15 años, me encanta trabajar en equipo, siempre entendi que uno pude llegar más rápido si va solo, pero si quiere llegar lejos necesariamente se hace en equipo 💪. Poseo sólidas herramientas soft skills dadas mis formaciones anteriores, liderando equipos y también aprendiendo de compañeros, ser positivo es realmente una virtud que aprecio. 
 
 - 💬 Si eres recruiter o de RRHH y te ha interesado mi perfil o crees que tengo potencial para sumarme a tu empresa, no dudes en ponerte en contacto, te agradeceré por tu tiempo y sin duda te responderé a la mayor brevedad posible.
 
