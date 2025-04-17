@@ -80,10 +80,10 @@
     </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI01eJWuiEoY7XWmq5MvADxR9iXDuSItTfFA&usqp=CAU" alt ="react" width =" 40 "height =" 40 "/> 
     </a> 
-    <a href = "https://redux.js.org" target = "_ blank"> <img src = "https://img.stackshare.io/service/7374/react-redux.png" alt = "redux" width = "40" height = "40" /> </a> 
+    <a href = "https://redux.js.org" target ="_ blank"> <img src ="https://img.stackshare.io/service/7374/react-redux.png" alt = "redux" width = "40" height = "40" /> </a> 
     <a href = "https://www.cypress.io/" target = "_ blank"> <img src = "https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/q1cwqhahz7jbtfzalznd" alt = "cypress.io" width = "40" height = "40" /> 
     </a> 
-    <a href = "https://jestjs.io/" target = "_ blank"> <img src = "https://jestjs.io/img/jest.png" alt = "jest JS" width = "70" height = "40" /> 
+    <a href = "https://jestjs.io/" target ="_ blank"> <img src ="https://jestjs.io/img/jest.png" alt = "jest JS" width = "70" height = "40" /> 
     </a> 
     
 </p>
