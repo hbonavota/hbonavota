@@ -3,7 +3,7 @@
    <img src = "https://yihe.co/wp-content/uploads/2018/03/1_jB76MLZjiNhGSQQvxm7LSQ.gif" width = "800" alt="Hello World" align= "center"/> 
    </a>
 </div>
-   <h2 align= "center"> 👋 ¡Hola!, Soy Hernán Bonavota </h2>
+   <h2 align= "center"> 👋 ¡Hola! </h2>
 </br>
 
 - ‍💻 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 || 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭 </br>
