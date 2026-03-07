@@ -2,7 +2,7 @@
 
 # Hernán Bonavota
 
-### Full Stack Developer · Integración de sistemas · APIs · Plataformas web complejas
+### Software Developer · System Integrations · APIs · High-traffic web platforms
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Integraci%C3%B3n+de+sistemas+y+APIs;Ticketing%2C+DataLake+y+plataformas+web+complejas;Tecnolog%C3%ADa%2C+negocio+y+visi%C3%B3n+de+producto)](https://git.io/typing-svg)
 
