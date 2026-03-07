@@ -2,7 +2,7 @@
 
 # Hernán Bonavota
 
-### Software Developer · System Integrations · APIs · High-traffic web platforms
+### Software Developer · System Integrations · APIs · High-Traffic Web Platforms
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer;System+Integrations+and+APIs;High-traffic+transactional+platforms;Technology%2C+business+and+product+thinking)](https://git.io/typing-svg)
 
@@ -10,63 +10,64 @@
 
 ---
 
-## 👋 Sobre mí
+## 👋 About Me
 
-Soy Software Developer especializado en **integración de sistemas, APIs y plataformas web complejas**.
+I am a **Software Developer specialized in system integrations, APIs, and complex web platforms**.
 
-Trabajo desarrollando y manteniendo **sistemas transaccionales de alto tráfico**, gestionando directamente clientes como **clubs de LaLiga**, conectando múltiples sistemas: plataformas de ticketing, servicios de pago, bases de datos, DataLake y APIs externas, en entornos donde se requieren sistemas robustos, seguros y altamente integrados.
+I work developing and maintaining **high-traffic transactional systems**, collaborating directly with **LaLiga football clubs**, connecting multiple services such as ticketing platforms, payment gateways, databases, Data Lakes, and external APIs in environments where **robust, secure, and highly integrated systems are required**.
 
-Gran parte de mi trabajo consiste en **traducir lógica de negocio compleja en software fiable, mantenible y escalable**.
+A significant part of my work consists of **translating complex business logic into reliable, maintainable, and scalable software**.
 
 ---
 
 <details>
-  <summary><strong>⚙️ Qué hago</strong></summary>
-  <br>
+<summary><strong>⚙️ What I Do</strong></summary>
 
-Diseño y desarrollo soluciones que conectan distintos sistemas dentro de un mismo flujo operativo:
+<br>
 
-- APIs externas
-- sistemas de ticketing
-- DataLake
-- pasarelas de pago
-- bases de datos
-- sistemas legacy
+I design and develop solutions that connect multiple systems within a single operational workflow:
 
-Trabajo especialmente en:
+- External APIs  
+- Ticketing systems  
+- Data Lakes  
+- Payment gateways  
+- Databases  
+- Legacy systems  
 
-- integraciones complejas
-- sincronización entre sistemas
-- validaciones de negocio
-- automatización de procesos
-- mantenimiento evolutivo sobre entornos productivos
-- resolución de incidencias en sistemas en producción
+My work focuses especially on:
+
+- Complex system integrations  
+- Data synchronization between systems  
+- Business logic validations  
+- Process automation  
+- Continuous improvement in production environments  
+- Troubleshooting and resolving production incidents  
 
 </details>
 
 ---
 
 <details>
-<summary><strong>🏟 Experiencia en plataformas transaccionales</strong></summary>
+<summary><strong>🏟 Transactional Platforms Experience</strong></summary>
 
 <br>
 
-He trabajado en plataformas de alto tráfico orientadas a operaciones críticas como:
+I have worked on **high-traffic platforms handling critical operations**, including:
 
-- venta de entradas
-- renovaciones
-- altas de abonados
-- validación de usuarios
-- generación de operaciones transaccionales
-- integración de pagos
+- Ticket sales  
+- Membership renewals  
+- Season ticket registrations  
+- User validation processes  
+- Transactional operations  
+- Payment integrations  
 
-### Retos técnicos habituales
+### Common Technical Challenges
 
-- concurrencia de usuarios
-- control de disponibilidad en tiempo real
-- consistencia de datos entre sistemas
-- sincronización con APIs externas
-- validación de operaciones críticas
+- User concurrency  
+- Real-time seat availability control  
+- Data consistency across systems  
+- External API synchronization  
+- Complex business rule validation  
 
 </details>
 
@@ -77,62 +78,63 @@ He trabajado en plataformas de alto tráfico orientadas a operaciones críticas 
 
 <br>
 
-Experiencia diseñando y manteniendo sistemas conectados que operan en producción real.
+Experience designing and maintaining **connected systems operating in real production environments**.
 
-Incluye:
+Includes:
 
-- Integración de APIs y sistemas externos
-- Modelado de datos y consultas SQL optimizadas
-- Consistencia de datos entre servicios
-- Sistemas transaccionales
-- Manejo de concurrencia
-- Resolución de incidencias en producción
+- API and external system integrations  
+- Data modeling and optimized SQL queries  
+- Data consistency between services  
+- Transactional systems  
+- Concurrency handling  
+- Production incident resolution  
 
 </details>
 
 ---
+
 <details>
-<summary><strong>📈 Experiencia transversal: negocio, finanzas y comunicación</strong></summary>
+<summary><strong>📈 Cross-disciplinary Experience: Business, Finance & Communication</strong></summary>
 
 <br>
 
-Antes de dedicarme al desarrollo de software trabajé durante más de **10 años en áreas comerciales y financieras**, incluyendo funciones de **controller financiero**.
+Before becoming a software developer, I spent more than **10 years working in commercial and financial roles**, including **financial controller positions**.
 
-Esta experiencia me permite entender con claridad la relación entre tecnología y negocio.
+This background allows me to better understand the relationship between **technology and business operations**.
 
-### Experiencia complementaria
+### Complementary Experience
 
-- comprensión profunda de negocio y operaciones
-- análisis de mercados financieros y criptoactivos
-- lectura de gráficos y velas japonesas
-- gestión de riesgo y dinámicas de mercado
-- comunicación entre perfiles técnicos y de negocio
-- liderazgo y evaluación de talento
-- negociación y toma de decisiones
+- Strong understanding of business operations  
+- Financial markets and crypto asset analysis  
+- Technical chart analysis and Japanese candlesticks  
+- Risk management and market dynamics  
+- Communication between technical and business teams  
+- Leadership and talent evaluation  
+- Negotiation and decision-making  
 
-He realizado **más de 500 entrevistas profesionales**, colaborando con equipos multidisciplinarios y procesos de selección.
+I have conducted **more than 500 professional interviews**, collaborating with multidisciplinary teams and recruitment processes.
 
-También cuento con formación en **Programación Neurolingüística (PNL)**:
+I also hold certifications in **Neuro-Linguistic Programming (NLP)**:
 
-- Practitioner
-- Trainer
-- Master
+- Practitioner  
+- Trainer  
+- Master  
 
-con foco en comunicación, liderazgo y comprensión del comportamiento humano.
+focused on communication, leadership, and human behavior.
 
 </details>
 
 ---
 
-## 🛠 Stack Tecnológico
+## 🛠 Technology Stack
 
-### Lenguajes
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
 ![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
-![Python](https://img.shields.io/badge/Python%20(explorando)-111?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python%20(exploring)-111?style=for-the-badge&logo=python)
 
 ### Frameworks & Platforms
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
@@ -150,14 +152,13 @@ con foco en comunicación, liderazgo y comprensión del comportamiento humano.
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
 ![REST API](https://img.shields.io/badge/REST_API-111?style=for-the-badge&logo=fastapi)
 
-
-### Bases de datos
+### Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-111?style=for-the-badge&logo=mariadb)
 ![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
 
-### Infraestructura
+### Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
 ![Nginx](https://img.shields.io/badge/Nginx-111?style=for-the-badge&logo=nginx)
 ![Apache](https://img.shields.io/badge/Apache-111?style=for-the-badge&logo=apache)
@@ -171,11 +172,11 @@ con foco en comunicación, liderazgo y comprensión del comportamiento humano.
 
 ---
 
-## 📚 Actualmente explorando
+## 📚 Currently Exploring
 
-- Inteligencia Artificial aplicada a verificación de contenido
-- Ciberseguridad
-- Arquitecturas backend escalables
+- Artificial Intelligence applied to content verification  
+- Cybersecurity  
+- Scalable backend architectures  
 
 ---
 ## 📊 GitHub Stats
@@ -209,14 +210,14 @@ con foco en comunicación, liderazgo y comprensión del comportamiento humano.
 
 ---
 
-## 🧊 Contribuciones en 3D
+## 🧊 Contribution in 3D
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Connect with Me
 
 <div align="center">
 
