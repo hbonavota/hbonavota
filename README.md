@@ -14,7 +14,7 @@
 
 Soy desarrollador Full Stack especializado en **integración de sistemas, APIs y plataformas web complejas**.
 
-Trabajo desarrollando soluciones tecnológicas para **organizaciones deportivas profesionales**, gestionando directamente clientes como **clubs de LaLiga**, en entornos donde se requieren sistemas robustos, seguros y altamente integrados.
+Trabajo desarrollando y manteniendo **soluciones transaccionales de alto tráfico**, gestionando directamente clientes como **clubs de LaLiga**, conectando múltiples sistemas: plataformas de ticketing, servicios de pago, bases de datos, DataLake y APIs externas, en entornos donde se requieren sistemas robustos, seguros y altamente integrados.
 
 Gran parte de mi trabajo consiste en **traducir lógica de negocio compleja en software fiable, mantenible y escalable**.
 
@@ -24,7 +24,7 @@ Gran parte de mi trabajo consiste en **traducir lógica de negocio compleja en s
   <summary><strong>⚙️ Qué hago</strong></summary>
   <br>
 
-Diseño y desarrollo plataformas web que conectan múltiples sistemas:
+Diseño y desarrollo soluciones que conectan distintos sistemas dentro de un mismo flujo operativo:
 
 - APIs externas
 - sistemas de ticketing
@@ -33,93 +33,79 @@ Diseño y desarrollo plataformas web que conectan múltiples sistemas:
 - bases de datos
 - sistemas legacy
 
-Me enfoco especialmente en:
+Trabajo especialmente en:
 
 - integraciones complejas
-- automatización de procesos
-- validaciones de negocio
 - sincronización entre sistemas
-- experiencias web orientadas a producción real
+- validaciones de negocio
+- automatización de procesos
+- mantenimiento evolutivo sobre entornos productivos
+- resolución de incidencias en sistemas en producción
 
 </details>
 
 ---
 
 <details>
-  <summary><strong>🏟 Sistemas de ticketing deportivo</strong></summary>
-  <br>
+<summary><strong>🏟 Experiencia en plataformas transaccionales</strong></summary>
 
-He desarrollado y mantenido plataformas para venta de entradas y gestión de abonados en entornos de alto tráfico.
+<br>
 
-### Funcionalidades desarrolladas
+He trabajado en plataformas de alto tráfico orientadas a operaciones críticas como:
 
-- mapas de asientos SVG interactivos
-- selección dinámica de butacas
-- control de disponibilidad en tiempo real
-- integración con APIs de ticketing
-- validación de socios y abonados
-- generación y verificación de entradas
-- integración con pasarelas de pago
-- automatización de flujos de compra
+- venta de entradas
+- renovaciones
+- altas de abonados
+- validación de usuarios
+- generación de operaciones transaccionales
+- integración de pagos
 
-### Retos técnicos abordados
+### Retos técnicos habituales
 
 - concurrencia de usuarios
-- control de inventario de asientos
-- sincronización con APIs externas
-- validaciones complejas de negocio
+- control de disponibilidad en tiempo real
 - consistencia de datos entre sistemas
+- sincronización con APIs externas
+- validación de operaciones críticas
 
 </details>
 
 ---
 
 <details>
-  <summary><strong>🧠 Integraciones con DataLake</strong></summary>
-  <br>
+<summary><strong>🏗 System Design</strong></summary>
 
-He desarrollado integraciones con **DataLake corporativos** para sincronización de información de socios y usuarios.
+<br>
 
-### Incluye
+Experiencia diseñando y manteniendo sistemas conectados que operan en producción real.
 
-- consulta y validación de datos
-- sincronización de perfiles
-- actualización de datos personales
-- validación de identidad
-- gestión de sesiones y autenticación
+Incluye:
 
-Trabajo conectando plataformas web con APIs empresariales y flujos de datos estructurados entre múltiples sistemas internos.
-
-</details>
-
----
-
-<details>
-  <summary><strong>📈 Conocimiento de mercados financieros</strong></summary>
-  <br>
-
-Tengo experiencia en análisis de mercados financieros y criptoactivos, incluyendo:
-
-- análisis técnico
-- lectura de gráficos y velas japonesas
-- gestión de riesgo
-- comprensión de dinámicas de mercado
-
-Este conocimiento aporta contexto valioso para entornos **fintech**, donde entender el dominio financiero mejora la calidad de las soluciones tecnológicas.
+- Integración de APIs y sistemas externos
+- Modelado de datos y consultas SQL optimizadas
+- Consistencia de datos entre servicios
+- Sistemas transaccionales
+- Manejo de concurrencia
+- Resolución de incidencias en producción
 
 </details>
 
 ---
-
 <details>
-  <summary><strong>🤝 Experiencia en negocio, liderazgo y comunicación</strong></summary>
-  <br>
+<summary><strong>📈 Experiencia transversal: negocio, finanzas y comunicación</strong></summary>
+
+<br>
 
 Antes de dedicarme al desarrollo de software trabajé durante más de **10 años en áreas comerciales y financieras**, incluyendo funciones de **controller financiero**.
 
-### Experiencia transversal
+Esta experiencia me permite entender con claridad la relación entre tecnología y negocio.
 
-- comprensión profunda de negocio y finanzas
+### Experiencia complementaria
+
+- comprensión profunda de negocio y operaciones
+- análisis de mercados financieros y criptoactivos
+- lectura de gráficos y velas japonesas
+- gestión de riesgo y dinámicas de mercado
 - comunicación entre perfiles técnicos y de negocio
 - liderazgo y evaluación de talento
 - negociación y toma de decisiones
@@ -144,29 +130,29 @@ con foco en comunicación, liderazgo y comprensión del comportamiento humano.
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python%20(aprendiendo)-111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
+![Python](https://img.shields.io/badge/Python%20(explorando)-111?style=for-the-badge&logo=python)
 
-### Frontend
+### Frameworks & Runtime
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111?style=for-the-badge&logo=tailwind-css)
 ![jQuery](https://img.shields.io/badge/jQuery-111?style=for-the-badge&logo=jquery)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
+### Web Fundamentals
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
 ![REST API](https://img.shields.io/badge/REST_API-111?style=for-the-badge&logo=fastapi)
 
+
 ### Bases de datos
+![MariaDB](https://img.shields.io/badge/MariaDB-111?style=for-the-badge&logo=mariadb)
 ![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
-
-### Testing
-![Cypress](https://img.shields.io/badge/Cypress.io-111?style=for-the-badge&logo=cypress)
-![Jest](https://img.shields.io/badge/Jest-111?style=for-the-badge&logo=jest)
 
 ### Infraestructura
 ![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
@@ -174,6 +160,10 @@ con foco en comunicación, liderazgo y comprensión del comportamiento humano.
 ![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws)
 ![Jenkins](https://img.shields.io/badge/Jenkins-111?style=for-the-badge&logo=jenkins)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+
+### Testing
+![Cypress](https://img.shields.io/badge/Cypress.io-111?style=for-the-badge&logo=cypress)
+![Jest](https://img.shields.io/badge/Jest-111?style=for-the-badge&logo=jest)
 
 ---
 
