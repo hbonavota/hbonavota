@@ -128,14 +128,15 @@ con foco en comunicación, liderazgo y comprensión del comportamiento humano.
 
 ### Lenguajes
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
 ![Python](https://img.shields.io/badge/Python%20(explorando)-111?style=for-the-badge&logo=python)
 
 ### Frameworks & Runtime
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-111?style=for-the-badge&logo=redux)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap)
