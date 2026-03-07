@@ -14,7 +14,7 @@
 
 Soy Software Developer especializado en **integración de sistemas, APIs y plataformas web complejas**.
 
-Trabajo desarrollando y manteniendo **soluciones transaccionales de alto tráfico**, gestionando directamente clientes como **clubs de LaLiga**, conectando múltiples sistemas: plataformas de ticketing, servicios de pago, bases de datos, DataLake y APIs externas, en entornos donde se requieren sistemas robustos, seguros y altamente integrados.
+Trabajo desarrollando y manteniendo **sistemas transaccionales de alto tráfico**, gestionando directamente clientes como **clubs de LaLiga**, conectando múltiples sistemas: plataformas de ticketing, servicios de pago, bases de datos, DataLake y APIs externas, en entornos donde se requieren sistemas robustos, seguros y altamente integrados.
 
 Gran parte de mi trabajo consiste en **traducir lógica de negocio compleja en software fiable, mantenible y escalable**.
 
