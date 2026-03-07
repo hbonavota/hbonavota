@@ -184,21 +184,6 @@ con foco en comunicación, liderazgo y comprensión del comportamiento humano.
 - Arquitecturas backend escalables
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hbonavota&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbonavota&layout=compact&theme=tokyonight&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hbonavota&theme=tokyonight)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -210,6 +195,31 @@ con foco en comunicación, liderazgo y comprensión del comportamiento humano.
 
 </div>
 
+---
+
+## 📈 Activity Graph
+
+[![Hernán's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hbonavota&theme=tokyo-night&hide_border=true&custom_title=Actividad%20reciente&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img alt="github contribution snake" src="./assets/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🧊 Contribuciones en 3D
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
 ---
 
 ## 🌐 Conecta conmigo
