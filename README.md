@@ -134,7 +134,7 @@ con foco en comunicación, liderazgo y comprensión del comportamiento humano.
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
 ![Python](https://img.shields.io/badge/Python%20(explorando)-111?style=for-the-badge&logo=python)
 
-### Frameworks & Runtime
+### Frameworks & Platforms
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-111?style=for-the-badge&logo=redux)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
@@ -160,6 +160,7 @@ con foco en comunicación, liderazgo y comprensión del comportamiento humano.
 ### Infraestructura
 ![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
 ![Nginx](https://img.shields.io/badge/Nginx-111?style=for-the-badge&logo=nginx)
+![Apache](https://img.shields.io/badge/Apache-111?style=for-the-badge&logo=apache)
 ![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws)
 ![Jenkins](https://img.shields.io/badge/Jenkins-111?style=for-the-badge&logo=jenkins)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
