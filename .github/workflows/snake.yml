@@ -1,0 +1,33 @@
+# .github/workflows/snake.yml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push snake files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          mkdir -p assets
+          cp dist/github-snake.svg assets/github-snake.svg
+          cp dist/github-snake-dark.svg assets/github-snake-dark.svg
+          git add assets/github-snake*.svg
+          git commit -m "Update snake animation" || exit 0
+          git push
