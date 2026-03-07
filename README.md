@@ -139,6 +139,8 @@ con foco en comunicación, liderazgo y comprensión del comportamiento humano.
 ![Redux](https://img.shields.io/badge/Redux-111?style=for-the-badge&logo=redux)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
+![WordPress](https://img.shields.io/badge/WordPress-111?style=for-the-badge&logo=wordpress)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-111?style=for-the-badge&logo=woocommerce)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111?style=for-the-badge&logo=tailwind-css)
 ![jQuery](https://img.shields.io/badge/jQuery-111?style=for-the-badge&logo=jquery)
