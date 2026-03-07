@@ -199,10 +199,15 @@ con foco en comunicación, liderazgo y comprensión del comportamiento humano.
 
 ---
 
-## 🧊 Contribuciones en 3D
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+
+<img height="180em" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="180em" src="./profile/top-langs.svg" alt="Top Langs" />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hbonavota&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
