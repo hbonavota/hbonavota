@@ -2,9 +2,9 @@
 
 # Hernán Bonavota
 
-### Software Developer · System Integrations · APIs · High-Traffic Web Platforms
+### Software Engineer · System Integrations · APIs · High-Traffic Web Platforms
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer;System+Integrations+and+APIs;High-traffic+transactional+platforms;Technology%2C+business+and+product+thinking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;System+Integrations+and+APIs;High-traffic+transactional+platforms;Technology%2C+business+and+product+thinking)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I am a **Software Developer specialized in system integrations, APIs, and complex web platforms**.
+I am a **Software Engineer specialized in system integrations, APIs, and complex web platforms**.
 
 I work developing and maintaining **high-traffic transactional systems**, collaborating directly with **LaLiga football clubs**, connecting multiple services such as ticketing platforms, payment gateways, databases, Data Lakes, and external APIs in environments where **robust, secure, and highly integrated systems are required**.
 
