@@ -23,7 +23,7 @@ I work spec-first. Every change starts as a written spec with acceptance criteri
 - **Languages:** TypeScript · C# · PHP · Python · SQL
 - **Frameworks:** Node.js · Express · Next.js · React · WordPress/WooCommerce
 - **Data:** MySQL · PostgreSQL · MongoDB
-- **Infrastructure:** AWS (EC2, RDS, S3, ACM) · Nginx · Linux · GitHub Actions · Jenkins
+- **Infrastructure:** AWS (EC2, RDS, S3, ACM) · Docker · Nginx · Linux · GitHub Actions · Jenkins
 - **Testing:** Jest · Cypress
 
 ## Background
