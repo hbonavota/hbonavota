@@ -20,7 +20,7 @@ I work spec-first. Every change starts as a written spec with acceptance criteri
 
 ## Projects
 
-- **[Verifiko](https://www.verifiko.es)** — Explainable phishing and malware URL detection, in production with a developer API. Layered analysis (static heuristics, brand typosquatting, reputation consensus, headless detonation) produces a risk score with an evidence trail. Security engineering: SSRF guard on every outbound fetch, signed webhooks and request-signature verification, Redis-based quotas and rate limiting, strict CSP. *FastAPI · Python · Clean Architecture · React · PostgreSQL · Redis. Source available on request.*
+- **[Verifiko](https://hbonavota.com/work/verifiko)** — Explainable phishing and malware URL detection, live at [verifiko.es](https://www.verifiko.es) with a developer API. Layered analysis (static heuristics, brand typosquatting, reputation consensus, optional headless detonation) produces a risk score with a per-signal decision trace. Security engineering: SSRF guard on every outbound fetch, signed webhooks and request-signature verification, quotas and rate limiting, strict CSP. *FastAPI · Python · Clean Architecture · React · PostgreSQL · Redis. Source available on request.*
 - **[Portfolio](https://github.com/hbonavota/Portfolio)** — Source for hbonavota.com (Next.js · TypeScript). Every change has a written spec, its prompt and real verification results in `docs/specs`.
 
 ## Stack
